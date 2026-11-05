@@ -1,6 +1,6 @@
 # ult.
 
-**A cool OpenCode alternative — a desktop AI coding agent for Windows.**
+**ULT — a desktop AI coding agent for Windows.**
 
 ult is a sleek Electron + React app that puts an agentic coding assistant on your desktop:
 streaming chat, real file tools (read / write / edit / glob / grep / shell), an approval flow
